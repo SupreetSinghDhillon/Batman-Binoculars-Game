@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Assignment 3</string>
+    <string name="numberOfBinoculars">Number of Binoculars left to find =</string>
+    <string name="numberScans">Number of Scans used</string>
+    <string name="Summary">THIS GAME IS JUST LIKE MINESWEEPER BUT IN THIS GAME YOU HAVE TO HELP BATMAN FIND HIS BINOCULARS.ON THE BOARDS YOU HAVE TO PRESS THE BUTTONS AND FIND THE BINOCULARS.WHEN YOU PRESS A BUTTON ON THE BOARD AND IT SHOWS A BINOCULAR GREAT, BUT IF IT DOES NOT SHOW A BINOCULAR THEN IT WILL TRIGGER THE SCAN TO FIND HOW MANY BINOCULARS ARE THERE IN THAT ROW OR COLUMN. YOU CAN ALSO CLICK ON A FOUND BINOCULAR TO TRIGGER A SCAN OF ITS ROWS AND COLUMNS TO FIND THE OTHER BINOCULARS</string>
+    <string name="instructions">Instructions</string>
+    <string name="madeBy">Written by Supreet Singh Dhillon and Chetan Khosla. This game has been written for CMPT276 -https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt276/course-info</string>
+    <string name="author">Author</string>
+    <string name="resources">For this Assignment, I have taken help from Dr. Brian Fraser’s YouTube videos.
+MAIN MENU ACTIVITY batman wallpaper and congratulations Batman wallpaper = taken from Pinterest, uploaded by Selena Kyle
+HELP AND GAME ACTIVITY screen wallpaper = taken from images provided by Dr Brian Fraser
+OPTIONS ACTIVITY wallpaper = taken from wallhere </string>
+    <string name="resourcesHeading">Resources</string>
+    <string name="exit_game">Exit Game</string>
+    <string name="start">START</string>
+    <string name="options">Options</string>
+    <string name="help">HELP</string>
+    <string name="batman_binocular_finder">BATMAN BINOCULAR FINDER</string>
+    <string name="made_by_supreet_dhillon">Made by = Supreet Dhillon and Chetan Khosla</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="number_of_binoculars">Number of Binoculars</string>
+    <string name="size_of_the_board">Size of the Board</string>
+    <string name = "hyperlink">This Game has been created by Supreet and Chetan for CMPT 276, The link for the homepage is:= <a href = "https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt276/assignments">cmptWebsite</a></string>
+</resources>
